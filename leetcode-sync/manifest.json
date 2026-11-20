@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "solutions": [
+    {
+      "problemId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "language": "typescript",
+      "languageName": "TypeScript",
+      "path": "Easy/0001-two-sum/solution.ts"
+    },
+    {
+      "problemId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "difficulty": "Easy",
+      "language": "typescript",
+      "languageName": "TypeScript",
+      "path": "Easy/0009-palindrome-number/solution.ts"
+    },
+    {
+      "problemId": "13",
+      "title": "Roman To Integer",
+      "slug": "roman-to-integer",
+      "difficulty": "Easy",
+      "language": "javascript",
+      "languageName": "JavaScript",
+      "path": "Easy/0013-roman-to-integer/solution.js"
+    },
+    {
+      "problemId": "13",
+      "title": "Roman To Integer",
+      "slug": "roman-to-integer",
+      "difficulty": "Easy",
+      "language": "typescript",
+      "languageName": "TypeScript",
+      "path": "Easy/0013-roman-to-integer/solution.ts"
+    },
+    {
+      "problemId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "language": "typescript",
+      "languageName": "TypeScript",
+      "path": "Easy/0014-longest-common-prefix/solution.ts",
+      "submittedAt": "2026-11-20T17:50:16.000Z"
+    },
+    {
+      "problemId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "difficulty": "Medium",
+      "language": "typescript",
+      "languageName": "TypeScript",
+      "path": "Medium/0002-add-two-numbers/solution.ts"
+    },
+    {
+      "problemId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "language": "javascript",
+      "languageName": "JavaScript",
+      "path": "Medium/0003-longest-substring-without-repeating-characters/solution.js"
+    },
+    {
+      "problemId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "language": "python3",
+      "languageName": "Python3",
+      "path": "Medium/0003-longest-substring-without-repeating-characters/solution.py"
+    },
+    {
+      "problemId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "language": "swift",
+      "languageName": "Swift",
+      "path": "Medium/0003-longest-substring-without-repeating-characters/solution.swift"
+    },
+    {
+      "problemId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "language": "typescript",
+      "languageName": "TypeScript",
+      "path": "Medium/0003-longest-substring-without-repeating-characters/solution.ts"
+    }
+  ]
+}
