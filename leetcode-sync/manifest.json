@@ -48,6 +48,16 @@
       "submittedAt": "2026-11-20T17:50:16.000Z"
     },
     {
+      "problemId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "language": "typescript",
+      "languageName": "TypeScript",
+      "path": "Easy/0021-merge-two-sorted-lists/solution.ts",
+      "submittedAt": "2026-11-22T22:21:50.000Z"
+    },
+    {
       "problemId": "2",
       "title": "Add Two Numbers",
       "slug": "add-two-numbers",
