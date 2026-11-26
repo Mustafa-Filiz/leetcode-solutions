@@ -6,24 +6,24 @@ A collection of accepted LeetCode solutions synchronized with GitHub using **Syn
 
 | Total Solutions | Languages | Last Updated |
 |:---:|:---:|:---:|
-| **11** | **4** | **2026-11-22** |
+| **12** | **4** | **2026-11-26** |
 
 ## Difficulty Distribution
 
 | Difficulty | Solutions | Distribution |
 |:---|---:|:---|
-| Easy | 6 | ██████░░░░ 55% |
-| Medium | 5 | █████░░░░░ 45% |
+| Easy | 7 | ██████░░░░ 58% |
+| Medium | 5 | ████░░░░░░ 42% |
 | Hard | 0 | ░░░░░░░░░░ 0% |
 
 ## Language Distribution
 
 | Language | Solutions | Distribution |
 |:---|---:|:---|
-| TypeScript | 7 | ██████░░░░ 64% |
-| JavaScript | 2 | ██░░░░░░░░ 18% |
-| Python3 | 1 | █░░░░░░░░░ 9% |
-| Swift | 1 | █░░░░░░░░░ 9% |
+| TypeScript | 8 | ███████░░░ 67% |
+| JavaScript | 2 | ██░░░░░░░░ 17% |
+| Python3 | 1 | █░░░░░░░░░ 8% |
+| Swift | 1 | █░░░░░░░░░ 8% |
 
 ## Solutions
 
@@ -34,6 +34,7 @@ A collection of accepted LeetCode solutions synchronized with GitHub using **Syn
 | [Roman To Integer](./Easy/0013-roman-to-integer/solution.js) | Easy | JavaScript |
 | [Roman To Integer](./Easy/0013-roman-to-integer/solution.ts) | Easy | TypeScript |
 | [Longest Common Prefix](./Easy/0014-longest-common-prefix/solution.ts) | Easy | TypeScript |
+| [Valid Parentheses](./Easy/0020-valid-parentheses/solution.ts) | Easy | TypeScript |
 | [Merge Two Sorted Lists](./Easy/0021-merge-two-sorted-lists/solution.ts) | Easy | TypeScript |
 | [Add Two Numbers](./Medium/0002-add-two-numbers/solution.ts) | Medium | TypeScript |
 | [Longest Substring Without Repeating Characters](./Medium/0003-longest-substring-without-repeating-characters/solution.js) | Medium | JavaScript |
