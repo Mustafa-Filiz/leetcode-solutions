@@ -48,6 +48,16 @@
       "submittedAt": "2026-11-20T17:50:16.000Z"
     },
     {
+      "problemId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "language": "typescript",
+      "languageName": "TypeScript",
+      "path": "Easy/0020-valid-parentheses/solution.ts",
+      "submittedAt": "2026-11-26T23:21:01.000Z"
+    },
+    {
       "problemId": "21",
       "title": "Merge Two Sorted Lists",
       "slug": "merge-two-sorted-lists",
